@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750499581525",
+    "project_id": "iyad-f4053",
+    "storage_bucket": "iyad-f4053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750499581525:android:d9afef47100f397ed48edc",
+        "android_client_info": {
+          "package_name": "com.example.iyad_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlNKkBEzv28fQV31nyK98vELw2v68XUYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
