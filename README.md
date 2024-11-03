@@ -1,4 +1,3 @@
-#KHALIL Iyad
 Bonjour Monsieur, j'espere que vous allez bien , donc deja j'ai pas pu faire la partie AI, et voici les deux logins : 
 iyad@gmail.com avec le mot de passe password1
 et khalil@gmail.com avec le mot de passe password2.
